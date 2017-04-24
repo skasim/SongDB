@@ -1,0 +1,5 @@
+/target
+/.idea/
+SongDB.iml
+/src/main/javadocs
+/src/test/
